@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hindi Jokes</string>
+    <string name="facebook_app_id">267933240296176</string>
+    <string name="action_logout">Logout</string>
+</resources>
